@@ -1,8 +1,12 @@
-# Dana_Java_projects
+# Dana_Individual_Projects
+My individual projects include both compurter science and statistical modeling projects. 
+
+# Statistical projects
+1. Predicting Language Scores with Linear Regression Model
+2. Predicting Suicide Rate with Hierarchical Linear Model
+
+# Java projects
 University of Washington Computer Science I Assignments
 The course Computer Science I  is provided by University of Washington School of Engineering. 
 
-# Course Overview
-This course provides an introduction to computer science using the Java programming language. This course is
-primarily a programming course, but the focus is on the problem solving techniques common in computer
-science. 
+
