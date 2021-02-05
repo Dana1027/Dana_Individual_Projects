@@ -17,4 +17,4 @@ The course Computer Science I  is provided by University of Washington School of
 
 # Machine Learning (Case study approach)
 
-1. [Predicting house price](https://github.com/Dana1027/Dana_Individual_Projects/blob/main/Predicting%20house%20prices.py)
+1. [Predicting house price](https://github.com/Dana1027/Dana_Individual_Projects/blob/main/Machine%20Learning(UW)/Predicting%20house%20price.py)
